@@ -1,6 +1,6 @@
 ## 오델로 설명
 
-[오델로 설명 PDF](https://github.com/user-attachments/files/18266275/4.2D.3D.pdf)
+### [오델로 설명 PDF](https://github.com/user-attachments/files/18266275/4.2D.3D.pdf)
 
 
 ### [3D 오델로 영상](https://youtu.be/JhOYmCS1E08)
