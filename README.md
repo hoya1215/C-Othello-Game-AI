@@ -2,10 +2,13 @@
 
 [오델로 설명 PDF](https://github.com/user-attachments/files/18266275/4.2D.3D.pdf)
 
+<br/>
 
 ### 3D 오델로 영상 링크
 
 https://youtu.be/JhOYmCS1E08
+
+<br/>
 
 ### DirectX12 엔진 깃허브
 
