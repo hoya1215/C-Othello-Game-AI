@@ -1,6 +1,6 @@
 ## 오델로 설명
 
-[C++ 오델로.pptx](https://github.com/user-attachments/files/17044275/C%2B%2B.pptx)
+[오델로 설명 PDF](https://github.com/user-attachments/files/18266275/4.2D.3D.pdf)
 
 ---
 
