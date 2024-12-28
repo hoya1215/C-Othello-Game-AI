@@ -6,7 +6,7 @@
 https://youtu.be/JhOYmCS1E08
 
 DirectX12 엔진 깃허브
-https://github.com/hoya1215/DirectX12 Engine.git
+https://github.com/hoya1215/DirectX12Engine.git
 
 ---
 
